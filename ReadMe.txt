@@ -6,8 +6,4 @@ STEPS:
 4. Then train 1000 weak classifiers by randomly selecting a few training samples with randomly selected features on naive bayes classifier
    for best accuracy, we've used: no. of samples = 100, no. of features = 300 & thereshold error should be less than 0.06.
    Best accuracy achieved is 96.7%
-
-NOTE:
-
-1. CC-ICA(Fast-ICA) is to be implemented prior to the classification.
    
